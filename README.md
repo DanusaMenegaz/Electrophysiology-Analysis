@@ -50,3 +50,19 @@ https://github.com/DanMenegaz/Electrophysiology-Analysis
 
 This repository was created by Danusa Menegaz, an experienced electrophysiologist specializing in patch-clamp techniques.
 
+## Reproducibility and Code Availability
+
+This repository contains the code used for electrophysiological analyses associated with the manuscript.
+
+The analysis workflow includes:
+
+- Data import from HEKA PatchMaster ASCII files
+- Signal processing and baseline correction
+- Resting membrane potential (RMP) analysis
+- Spike frequency analysis
+- Amplitude quantification
+- Statistical analysis
+- Single-channel electrophysiology analysis
+
+All code is publicly available and maintained by the authors in accordance with PNAS data and code availability requirements.
+
