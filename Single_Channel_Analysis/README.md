@@ -1,6 +1,6 @@
 # TPC1 Single-Channel Analysis
 
-This folder contains a reproducible Python workflow for quantitative analysis of TPC1 single-channel electrophysiological recordings exported from HEKA PatchMaster ASCII files.
+This folder contains a reproducible Python workflow for quantitative analysis of lysosomal TPC1 single-channel electrophysiological recordings exported from HEKA PatchMaster ASCII files.
 
 The analysis pipeline was developed for publication-related processing of excised-patch single-channel recordings associated with the manuscript.
 
