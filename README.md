@@ -4,7 +4,7 @@
 
 This repository contains reproducible Python workflows for the quantitative analysis of electrophysiological recordings obtained using patch-clamp techniques.
 
-The primary workflow includes analysis of TPC1 single-channel recordings exported from HEKA PatchMaster ASCII files, including:
+The primary workflow includes analysis of lysosomal TPC1 single-channel recordings exported from HEKA PatchMaster ASCII files, including:
 
 * Channel-state classification
 * Open probability (Po) calculation
