@@ -66,3 +66,25 @@ The analysis workflow includes:
 
 All code is publicly available and maintained by the authors in accordance with PNAS data and code availability requirements.
 
+## Professional Training
+
+### MasterSchool Data Analytics School (2024)
+
+Completed a 1440-hour professional training program in Data Analytics and Data Science.
+
+Skills acquired:
+
+* Python Programming
+* SQL and Advanced SQL
+* Tableau
+* Data Visualization
+* Data Wrangling
+* Machine Learning Fundamentals
+* Data Storytelling
+
+Certificates available in this repository:
+
+* Data Science Fundamentals (English)
+* Data Science Fundamentals (German)
+
+
