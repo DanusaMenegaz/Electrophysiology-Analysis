@@ -15,7 +15,7 @@ The primary workflow includes analysis of TPC1 single-channel recordings exporte
 
 Additional scripts for electrophysiological analyses, including resting membrane potential (RMP), spike frequency, amplitude measurements, and statistical analysis, are also provided.
 
-All code is publicly available and maintained by the authors in accordance with PNAS code availability requirements.
+All code is publicly available and maintained by the authors to support scientific reproducibility, transparency, and compliance with journal code availability requirements.
 
 ---
 
