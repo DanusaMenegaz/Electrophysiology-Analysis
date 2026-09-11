@@ -47,3 +47,14 @@ The workflow was implemented in Python using standard scientific libraries inclu
 Raw electrophysiology recordings are not included in this repository. The notebook is intended to document the computational workflow used for analysis of HEKA PatchMaster ASCII exports.
 
 Representative quality-control figures are used to illustrate the analysis logic and are not intended to reproduce the exact visual scaling of assembled publication panels.
+
+## Associated Publication
+
+This single-channel analysis workflow was used for electrophysiological analysis associated with the following publication:
+
+Deutsch R, Jörs S, Klingl Y, Kudrina V, Menegaz D, Jaślan D, Serianz Z, Vogel A, Abrahamian C, Bhunia S, Tavhelidse-Suck T, Richter C, Wirth A, Urban N, Northoff B, Wilfert W, Klugbauer N, Bracher F, Keller M, Geisler F, Schaefer M, Teupser D, Holdt L, Belkaya S, Freichel M, Grimm C.  
+**TPC1-dependent control of endosomal pH and transferrin uptake determines cellular iron status.**  
+*Proceedings of the National Academy of Sciences of the United States of America.* 2026;123(32):e2602941123.  
+doi: 10.1073/pnas.2602941123
+
+The repository provides the Python-based workflow used for representative single-channel current visualization, amplitude estimation, open-probability analysis, and quality-control plotting.
